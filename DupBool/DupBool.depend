@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741966112 source:c:\users\kalii\onedrive\desktop\c\dupbool\main.c
+	<stdio.h>
+	<stdbool.h>
+
