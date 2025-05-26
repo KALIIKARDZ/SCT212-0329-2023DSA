@@ -1,4 +1,4 @@
-//  LAB 2 PART B - LINKED LIST STUDENT LIST
+//  LAB 2 PART B - LINKED LIST STUDENT LIST 
 //Code reimplements the array-based list from Part A using a singly linked list.
 // Comments indicate which part of the question is implemented. I choose this instead of multiple files
 
