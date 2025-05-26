@@ -8,7 +8,7 @@ int removeDuplicates(int nums[], int size) {
     for (int i = 1; i < size; i++) {
         if (nums[i] != nums[j]) {
             nums[++j] = nums[i];
-        }
+        } 
     }
     return j + 1;
 }
