@@ -7,7 +7,7 @@
 //PART A.2: Define Course and Grade as ADTs ---
 typedef struct {
     char courseName[30];
-    int courseCode;
+    int courseCode; 
 } Course;
 
 typedef struct {
