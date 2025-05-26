@@ -1,4 +1,4 @@
-// LAB 2 PART A - ARRAY-BASED STUDENT LIST
+// LAB 2 PART A - ARRAY-BASED STUDENT LIST 
 //Code extends Lab 1 with an array-based list using dynamic memory (malloc)
 
 #include <stdio.h>
