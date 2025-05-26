@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 //Rotate the array to the right by k steps, where k is non-negative.(i set mine to three it will take the last three in array and will rotate to 1st 2nd 3rd pos
 
  void rotateArray(int nums[], int size, int k) {
