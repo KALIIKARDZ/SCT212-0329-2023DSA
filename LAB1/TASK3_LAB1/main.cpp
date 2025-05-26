@@ -109,7 +109,7 @@ int main() {
         }
         else if (choice == 4) {
             for (Student& s : students)
-                s.printDetails();
+                s.printDetails(); 
         }
         else if (choice == 5) {
             break;
